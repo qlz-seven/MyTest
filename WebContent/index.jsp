@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	hello java and c++
+	hello java
 </body>
 </html>
